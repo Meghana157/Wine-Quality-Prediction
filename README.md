@@ -66,7 +66,7 @@ This project demonstrates the potential of machine learning in predicting and cl
 - Integrating sensory data (e.g., taste and aroma) for improved predictions.
 - Deploying the model into a user-friendly application for wineries and sommeliers.
 
-<a href="http://localhost:8888/notebooks/Wine%20Quality%20Prediction.ipynb?">Project</a>
+<a href="https://github.com/Meghana157/Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prediction.ipynb">Project</a>
 
 
 ## How to Run the Project
