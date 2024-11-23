@@ -71,7 +71,7 @@ This project demonstrates the potential of machine learning in predicting and cl
 
 ## How to Run the Project
 - Clone this repository:
-git clone https://github.com/Meghana157/Wine-Quality-Prediction/tree/main.git  
+ git clone https://github.com/Meghana157/Wine-Quality-Prediction.git   
 - Install required dependencies:
 pip install -r requirements.txt  
 - Run the Jupyter Notebook for analysis and model building:
